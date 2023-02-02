@@ -11,7 +11,7 @@ Esse projeto reúne alguns conhecimentos das linguagens mencionadas como:
 - Funções;
 - Layout Flebox;
 - modal;
--localsotrage.
+- localstorage.
 
 
 ## Como visualizar
