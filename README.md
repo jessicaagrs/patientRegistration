@@ -28,7 +28,7 @@ Essas são algumas tecnologias:
 - VS Code
 - Git
 
-![N|Solid](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmIwNzQ3OWExNzlkNWEyOGIyNTMzMjE4MmFmYjQ4NjE3YTQ2ZTNjYyZjdD1n/MFyq3p60jZC44MZ1X0/giphy.gif)
+![N|Solid](https://uploaddeimagens.com.br/images/004/325/552/full/Screenshot_1.png?1675335954)
 
 
 
