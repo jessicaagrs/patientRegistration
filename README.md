@@ -63,7 +63,7 @@ git clone https://github.com/jessicaagrs/projeto_crudCadastroPacientes_javascrip
 
 ```
 
-> Link para execução do projeto no browser: https://jessicaagrs.github.io/projeto_crudCadastroPacientes_javascript/
+> Link para execução do projeto no browser: https://jessicaagrs.github.io/frontend_projetoCadastroPacientes/
 
 <!-- ## Como rodar os testes
 
