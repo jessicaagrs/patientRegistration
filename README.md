@@ -63,7 +63,7 @@ git clone https://github.com/jessicaagrs/projeto_crudCadastroPacientes_javascrip
 
 ```
 
-> Link para execução do projeto no browser: https://jessicaagrs.github.io/frontend_projetoCadastroPacientes/
+> [RODAR PAGINA WEB](https://patient-registration-two.vercel.app/)
 
 <!-- ## Como rodar os testes
 
